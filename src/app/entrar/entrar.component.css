@@ -1,13 +1,24 @@
 #img-fluid{
-    background-image: url(../../assets/img/Recycling-rafiki.png);
+    background-image: url(../../assets/img/latadelixo.svg);
 
-    min-height: 695px;
+    min-height: 900px;
 
     background-attachment: absolute; /* background-position(define como e onde a imagem de fundo é posicionada) */
                         /* absolute - (Permite o posicionamento do elemento em qualquer lugar da página, nesse caso da imagem.) */
     background-repeat: no-repeat; /* background-repeat(Estabelece se uma imagem de plano de fundo será repetida ou não.) */
-    background-size: cover;
+    background-size: size;
 }
+
+
+
+.text-corescura{
+    color: #696969;
+}   
+
+
+
+
+
 /* 
 position: absolute; 
 width: 141px;
